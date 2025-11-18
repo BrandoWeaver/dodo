@@ -1,42 +1,36 @@
-# dodo
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-This project is developed by a Cambodian developer. 🇰🇭  
-Built with love for Khmer people, especially small online sellers in Cambodia.
+## Getting Started
 
-## 🎯 What is dodo?
+First, run the development server:
 
-**dodo** is a simple, Khmer-first video editing platform designed to help:
-- Small online shops
-- Facebook / TikTok / IG sellers
-- Young Khmer content creators
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-create beautiful short videos **quickly** and **easily**, using **fully Khmer content**.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## ✨ Key Ideas
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-- 🇰🇭 **Khmer-first experience**  
-  Interface, texts, and tutorials are all in Khmer to make it friendly and easy to use.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-- 🛍️ **For small online sellers**  
-  Ready templates for product showcases, promotions, discounts, and delivery info.
+## Learn More
 
-- 🎬 **Short video focused**  
-  Optimized for TikTok, Facebook Reels, Instagram Reels, and YouTube Shorts.
+To learn more about Next.js, take a look at the following resources:
 
-- 🧩 **Template-based editing**  
-  Choose a template, add your photos/videos, edit the text, and export your video.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## 👥 Target Users
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-- Small business owners selling online
-- Content creators who want to make quick videos in Khmer
-- Anyone who feels other editing apps are too complicated or not Khmer-friendly
+## Deploy on Vercel
 
-## 🚀 Project Status
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Early stage / under active development.  
-More details, screenshots, and demos will be added soon.
-
----
-
-If you are a Khmer creator or small seller and want to give feedback or ideas, your input is very welcome. 🙌
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
