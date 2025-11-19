@@ -53,7 +53,7 @@ export default async function RootLayout({
                 </div>
               </div>
             </header>
-            <main className="container mx-auto"> {children}</main>
+            <main className=""> {children}</main>
             <footer className="container mx-auto">footer</footer>
           </ThemeProvider>
         </NextIntlClientProvider>
